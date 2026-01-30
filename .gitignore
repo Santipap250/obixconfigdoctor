@@ -1,0 +1,10 @@
+.cache/
+.npm/
+.config/
+.local/
+__pycache__/
+*.pyc
+.env
+.gitconfig
+.bashrc
+.bash_history
